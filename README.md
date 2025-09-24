@@ -12,7 +12,7 @@ A custom command-line tool for instantly bootstrapping clean Flutter projects wi
 
 ## 🛠 Features
 
-- One command setup: `fb ("flutter_booster")`
+- One command setup: `FIB ("flutter_isar_booster")`
 - Compiles to Windows `.exe` using Dart  
 - Built-in safety guard (won't run outside valid Flutter folders)
 - Easily extendable
