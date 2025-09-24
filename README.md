@@ -24,3 +24,4 @@ A custom command-line tool for instantly bootstrapping clean Flutter projects wi
 ```bash
 dart pub get
 dart run bin/booster.dart
+dart compile exe bin/booster.dart -o bin/FIB.exe
