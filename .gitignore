@@ -1,0 +1,17 @@
+# Flutter / Dart / VS Code
+.dart_tool/
+.packages
+.pub-cache/
+build/
+.idea/
+.vscode/
+pubspec.lock
+
+# OS
+*.DS_Store
+Thumbs.db
+
+# Executables
+*.exe
+*.apk
+*.ipa

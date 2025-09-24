@@ -1,0 +1,10 @@
+name: flutter_project_booster
+description: Flutter Booster CLI - project setup automation
+version: 1.0.0
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  colorize: ^3.0.0
+  path: ^1.9.1
